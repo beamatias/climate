@@ -22,7 +22,7 @@ Este projeto é um aplicativo web de previsão do tempo que permite aos usuário
 
 Você pode acessar a página do projeto hospedada através do seguinte link:
 
-🌐[Site Climate]([https://favorite-movie-neon.vercel.app/](https://climate-wine-ten.vercel.app/))
+🌐[Climate](https://climate-wine-ten.vercel.app/)
 
 
 ## Contribuição
