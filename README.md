@@ -1,12 +1,30 @@
-# React + Vite
+# Climate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/cb8e1e4c-7a19-4810-9183-8349b66fdbfe)
 
-Currently, two official plugins are available:
+Este projeto é um aplicativo web de previsão do tempo que permite aos usuários acessar a temperatura atual e a previsão para os próximos 5 dias de qualquer localidade. Desenvolvido com React e Vite, ele oferece uma experiência de usuário intuitiva e responsiva.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades
 
-## Expanding the ESLint configuration
+* **Previsão do Tempo Atual:** Exibe a temperatura atual, condições climáticas e outros detalhes relevantes da localidade pesquisada.
+* **Previsão para 5 Dias:** Apresenta a previsão do tempo para os próximos 5 dias, incluindo temperatura, sensação térrmica, umidade e pressão.
+* **Barra de Pesquisa:** Permite aos usuários pesquisar por cidades ou localidades para obter informações meteorológicas.
+* **Responsividade:** Adapta-se a diferentes tamanhos de tela, proporcionando uma experiência otimizada em dispositivos móveis e desktops.
+* **Integração com OpenWeatherMap API:** Os dados meteorológicos são obtidos através da API do OpenWeatherMap, garantindo informações precisas e atualizadas.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tecnologias Utilizadas
+
+* **React**
+* **Vite**
+* **OpenWeatherMap API**
+
+## Como Acessar
+
+Você pode acessar a página do projeto hospedada através do seguinte link:
+
+🌐[Site Climate](https://favorite-movie-neon.vercel.app/)
+
+
+## Contribuição
+
+Contribuições são sempre bem-vindas! Se você tiver alguma sugestão ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.😊
